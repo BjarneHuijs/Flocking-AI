@@ -1,0 +1,50 @@
+﻿  stdafx.cpp
+  EGraphConnectionTypes.cpp
+  EGraphNodeTypes.cpp
+  EGraphEditor.cpp
+  EGraphRenderer.cpp
+  EGeometry2DTypes.cpp
+  EInputManager.cpp
+  EMatrix2x3.cpp
+  ERigidBodyBox2D.cpp
+  EPhysicsWorldBox2D.cpp
+  ECamera2D.cpp
+  SDLDebugRenderer2D.cpp
+  SDLFrame.cpp
+  ETimer_SDL.cpp
+  EImmediateUI.cpp
+  SDLWindow.cpp
+  gl3w.c
+  main.cpp
+  App_GraphTheory.cpp
+  App_PathfindingAStar.cpp
+  App_Sandbox.cpp
+  Generating Code...
+  Compiling...
+  SandboxAgent.cpp
+  App_SteeringBehaviors.cpp
+  App_CombinedSteering.cpp
+  App_Flocking.cpp
+  CombinedSteeringBehaviors.cpp
+  Flock.cpp
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(173,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(287,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(293,21): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(321,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\Flock.cpp(325,26): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  FlockingSteeringBehaviors.cpp
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\FlockingSteeringBehaviors.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+  SpacePartitioning.cpp
+C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\projects\App_Steering\CombinedBehaviors\SpacePartitioning\SpacePartitioning.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+  Obstacle.cpp
+  SteeringAgent.cpp
+  SteeringBehaviors.cpp
+  BaseAgent.cpp
+  Generating Code...
+IMGUI_LIB32d.lib(imgui.obj) : warning LNK4099: PDB 'IMGUI_LIB.pdb' was not found with 'IMGUI_LIB32d.lib(imgui.obj)' or at 'C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\bin\Debug_Exam\IMGUI_LIB.pdb'; linking object as if no debug info
+IMGUI_LIB32d.lib(imgui_draw.obj) : warning LNK4099: PDB 'IMGUI_LIB.pdb' was not found with 'IMGUI_LIB32d.lib(imgui_draw.obj)' or at 'C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\bin\Debug_Exam\IMGUI_LIB.pdb'; linking object as if no debug info
+  GPP_Framework.vcxproj -> C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\..\bin\Debug_Exam\GPP_Framework.exe
+  C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\source\..\lib\SDL2.dll
+  1 File(s) copied

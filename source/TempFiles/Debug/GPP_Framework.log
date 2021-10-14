@@ -1,0 +1,5 @@
+﻿  main.cpp
+IMGUI_LIB32d.lib(imgui.obj) : warning LNK4099: PDB 'IMGUI_LIB.pdb' was not found with 'IMGUI_LIB32d.lib(imgui.obj)' or at 'C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\bin\Debug\IMGUI_LIB.pdb'; linking object as if no debug info
+IMGUI_LIB32d.lib(imgui_draw.obj) : warning LNK4099: PDB 'IMGUI_LIB.pdb' was not found with 'IMGUI_LIB32d.lib(imgui_draw.obj)' or at 'C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\bin\Debug\IMGUI_LIB.pdb'; linking object as if no debug info
+  GPP_Framework.vcxproj -> C:\Users\Stevu\Documents\School\Jaar 2020-2021\Gameplay_Programming\GPP_Framework\bin\Debug\GPP_Framework.exe
+  0 File(s) copied
