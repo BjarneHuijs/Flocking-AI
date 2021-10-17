@@ -37,6 +37,6 @@ by searching for a point in a cone in front of them, moving to that point and th
 Doing so creates a fairly random wandering pattern.
 
 # DISCLAIMER<br>
-Parts of this project code was provided by HoWest Digital Arts and Entertainment (DAE) as they provided the framework
+Parts of this project code were provided by HoWest Digital Arts and Entertainment (DAE) as they provided the framework
 in which the AI was built. If you specifically wish to find my code. Look for the classes implementing the AI's behaviours.
 All rights and any form of ownership of this code goes to DAE.
